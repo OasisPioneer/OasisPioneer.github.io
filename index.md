@@ -1,5 +1,6 @@
 ## My Open Source Projects
 
+![Code Generator Demo](/assets/demo.gif "Code Generator Demo")
 - [Online FTXUI Code Generator](https://oasispioneer.github.io/FTXUI-Code-Generator/)
 
 ## Sponsor Me
